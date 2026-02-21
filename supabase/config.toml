@@ -1,0 +1,2 @@
+[functions.check-missed-medications]
+verify_jwt = false
